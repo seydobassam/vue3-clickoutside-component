@@ -21,7 +21,7 @@ app.use(clickOutside)
 
 ```js
 <template>
-  <div class="dropdown" v-click-outside="() => hideDropdown()">
+  <div class="dropdown" v-click-outside="() => hideDropdown()"></div>
 </template>
 <script setup>
   function hideDropdown() {
