@@ -1,0 +1,32 @@
+{
+  "name": "vue3-clickoutside-component",
+  "description": "A simple Vue3 directive for clicking outside component",
+  "version": "1.0.0",
+  "private": false,
+  "main" : "click-outside.js",
+  "author": {
+    "name": "Bassam Seydo"
+  },
+  "repository": "https://github.com/seydobassam/v-clickoutside",
+  "bugs": "https://github.com/seydobassam/v-clickoutside#readme",
+  "keywords": [
+    "v-click-outside", 
+    "vue-click-outside", 
+    "v3-click-outside", 
+    "vue3-click-outside", 
+    "click-outside", 
+    "v-click-outside-x", 
+    "vue",
+    "click",
+    "outside",
+    "directive",
+    "vue3 click outside",
+    "vue3 outside",
+    "vue3 click outside element",
+    "vue click hook",
+    "vue hook",
+    "vue click outside hook"
+  ],
+  "license": "MIT",
+  "scripts": {}
+}
